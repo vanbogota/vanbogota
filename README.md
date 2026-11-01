@@ -1,6 +1,6 @@
 # Hi, I'm Ivan Bogdanov 👋
 
-**Full-Stack Software Engineer · AI Automation · COO at Dokport**
+**Full-Stack Software Engineer · Business Automations · AI development 
 📍 Helsinki, Finland · 🟢 Open to opportunities (on-site / hybrid / remote)
 
 I build backend-heavy web products and automate business processes with AI.
