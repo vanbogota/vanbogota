@@ -1,12 +1,15 @@
-# Hi, I'm Ivan Bogdanov 👋
+# Hi, I'm Ivan 👋
 
-**Full-Stack Software Engineer · Business Automations · AI development 
+**Full-Stack Software Engineer · AI & Automation Enthusiast · Engineering & Business 
 📍 Helsinki, Finland · 🟢 Open to opportunities (on-site / hybrid / remote)
 
-I build backend-heavy web products and automate business processes with AI.
-Today I run operations at **Dokport**, a Finnish healthtech platform, where I introduced
-automation from scratch, starting with B2B contract workflows. Before that I spent 4+ years shipping
-production software in C#/.NET and TypeScript, and 8 years as an engineering manager in heavy industry.
+I'm a software engineer with a background in engineering design, technical management, and building digital products.
+
+Over the years, I've transitioned from industrial and civil engineering into software development, bringing together hands-on technical experience and a strong understanding of business processes.
+
+Before moving into software development, I spent over 10 years in engineering design and technical management, including leading engineering teams in the mining industry.
+
+I enjoy understanding how things work under the hood, solving complex problems, and turning ideas into working products.
 
 ---
 
@@ -40,6 +43,7 @@ production software in C#/.NET and TypeScript, and 8 years as an engineering man
 **AI & Automation:**
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![AI Automation](https://img.shields.io/badge/AI_Automation-0A0A0A?style=flat&logo=openai&logoColor=white)
+![LLM Integrations](https://img.shields.io/badge/LLM-Integrations-blueviolet?style=flat-square&logo=openai&logoColor=white)  
 
 ---
 
@@ -53,12 +57,17 @@ production software in C#/.NET and TypeScript, and 8 years as an engineering man
 | **C# Developer** | GeekBrains · microservices, edtech | 2021 – 2023 |
 | **Engineering Team Manager** | Severstal · engineering & consulting for mining | 2013 – 2021 |
 
-**Highlights**
-- ⚙️ Built automation at Dokport from zero: B2B contract pipeline, AI tooling and its rollout to the team
-- ☁️ Delivered features and PoCs for a distributed scientific platform on AWS + Kubernetes with Azure DevOps CI/CD
-- 🛒 Developed an e-commerce platform in .NET MVC/EF and automated customer and ad-publishing workflows
-- 🧩 Built microservice features with REST, EF Core, MS SQL and RabbitMQ
-- 🏗 Wrote C# plugins for Revit, automated reporting with Power BI and served as Scrum Master
+### 🚀 What I'm Interested In
+
+- Building scalable and maintainable software products.
+
+- AI-powered applications, LLM integrations, and agentic workflows.
+
+- Automating complex business processes.
+
+- System architecture and engineering challenges.
+
+- Connecting technical solutions with real business needs.
 
 ---
 
