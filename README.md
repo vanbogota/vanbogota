@@ -1,6 +1,6 @@
 # Hi, I'm Ivan 👋
 
-**Full-Stack Software Engineer · AI & Automation Enthusiast · Engineering & Business 
+**Full-Stack Software Engineer · AI & Automation Enthusiast · Engineering & Business**<br>
 📍 Helsinki, Finland · 🟢 Open to opportunities (on-site / hybrid / remote)
 
 I'm a software engineer with a background in engineering design, technical management, and building digital products.
